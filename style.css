@@ -119,8 +119,8 @@ button {
 }
 
 .square {
-    height: 170px;
-    width: 170px;
+    height: 150px;
+    width: 150px;
     border: solid 4px #3882f6;
     border-radius: 15px;
     margin-bottom: 8px;
@@ -144,4 +144,36 @@ button {
     flex-direction: column;
     width: 150px;
     align-items: center;
+}
+
+.third {
+    display: flex;
+    width: 100vmax;
+    height: auto;
+    background-color: #e5e7eb;
+    justify-content: center;
+}
+
+.third-content {
+    display: flex;
+    flex-direction: column;
+    width: 830px;
+    margin-top: 120px;
+    margin-bottom: 80px;
+    color: #1f2937;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    padding-left: 62px;
+}
+
+.author {
+    display: flex;
+    justify-content: right;
+    font-size: 24px;
+    font-weight: 600;
+    padding-right: 10px;
 }

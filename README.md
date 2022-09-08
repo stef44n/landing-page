@@ -30,3 +30,5 @@
   <li><a href="https://www.theodinproject.com/about">TOP</a>
   <li><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Rahuldkjain - ReadMe generator</a>
 </ul>
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/stef44n/etch-a-sketch?label=latest%20update&logo=github&style=for-the-badge">
